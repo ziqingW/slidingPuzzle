@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/slidingPuzzle/static/media/back.2c56f86b.jpg"
   },
   {
-    "revision": "84f891bd242b6f91b318ebbcf6ed4ef5",
+    "revision": "a5c2c59135d2580cc0b2fba7fd79ffd3",
     "url": "/slidingPuzzle/index.html"
   }
 ];
