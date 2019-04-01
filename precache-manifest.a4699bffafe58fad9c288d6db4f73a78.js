@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "afe290d96b0fe27bed9f",
+    "revision": "bb7188d769ee978c6389",
     "url": "/slidingPuzzle/static/css/main.e015559d.chunk.css"
   },
   {
-    "revision": "afe290d96b0fe27bed9f",
-    "url": "/slidingPuzzle/static/js/main.9ebe4d91.chunk.js"
+    "revision": "bb7188d769ee978c6389",
+    "url": "/slidingPuzzle/static/js/main.36b592a2.chunk.js"
   },
   {
     "revision": "73e510dce653881f79fa",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/slidingPuzzle/static/media/back.2c56f86b.jpg"
   },
   {
-    "revision": "a5c2c59135d2580cc0b2fba7fd79ffd3",
+    "revision": "a528332b2b239f0d6d8c98b93f2019e8",
     "url": "/slidingPuzzle/index.html"
   }
 ];
