@@ -16,7 +16,7 @@ const styles = {
   },
   puzzle: {
     minHeight: "100vh",
-    marginTop: "100px",
+    marginTop: "60px",
   },
 }
 
